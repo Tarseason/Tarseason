@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Sou um estudante de desenvolvimento web na Trybe, apaixonado por tecnologia e em busca de oportunidades para trabalhar em projetos back-end. Além disso, sou um entusiasta de artes e música, sempre em busca de novas descobertas e aprendizados. Estou comprometido em aprimorar minhas habilidades e contribuir para projetos desafiadores e empolgantes.</p>
+<p align="left">Sou um estudante de desenvolvimento web na Trybe, apaixonado por tecnologia e estou em busca de oportunidades para trabalhar em projetos back-end. Além disso, sou um entusiasta de artes e música, sempre em busca de novas descobertas e aprendizados. Estou comprometido em aprimorar minhas habilidades e contribuir para projetos desafiadores e empolgantes.</p>
 
 ###
 
